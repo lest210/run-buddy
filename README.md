@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-
+https://lest210.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Lester Calderon]
